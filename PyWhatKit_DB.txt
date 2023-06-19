@@ -1,0 +1,55 @@
+Date: 18/5/2023
+Time: 16:34
+Phone Number: +555484341334
+Message: Oi (Paragrafo) Esta mensagem feita com Python AaBbCcDdEeKkWwXxYyZz1234567890!@#$%¨&*()-=_+[]
+--------------------
+Date: 18/5/2023
+Time: 16:36
+Phone Number: +555484341334
+Message: Oi (Paragrafo) Esta mensagem feita com Python AaBbCcDdEeKkWwXxYyZz1234567890!@#$%¨&*()-=_+[]
+--------------------
+Date: 18/5/2023
+Time: 16:39
+Phone Number: +555484341334
+Message: Oi (Paragrafo) Esta mensagem feita com Python AaBbCcDdEeKkWwXxYyZz1234567890!@#$%¨&*()-=_+[]
+--------------------
+Date: 18/5/2023
+Time: 16:40
+Phone Number: +555499726015
+Message: Oi (Paragrafo) Esta mensagem feita com Python AaBbCcDdEeKkWwXxYyZz1234567890!@#$%¨&*()-=_+[]
+--------------------
+Date: 18/5/2023
+Time: 16:41
+Group ID: Hooray grupo
+Message: Oi (Paragrafo) Esta mensagem feita com Python AaBbCcDdEeKkWwXxYyZz1234567890!@#$%¨&*()-=_+[]
+--------------------
+Date: 5/6/2023
+Time: 14:55
+Group ID: Hooray grupo
+Message: Oi (Paragrafo) Esta mensagem feita com Python AaBbCcDdEeKkWwXxYyZz1234567890!@#$%¨&*()-=_+[]
+--------------------
+Date: 5/6/2023
+Time: 15:4
+Group ID: Hooray grupo
+Message: Oi (Paragrafo) Esta mensagem feita com Python AaBbCcDdEeKkWwXxYyZz1234567890!@#$%¨&*()-=_+[]
+--------------------
+Date: 14/6/2023
+Time: 19:44
+Phone Number: +555499726015
+Message: Hello, this is a test message!
+--------------------
+Date: 14/6/2023
+Time: 19:46
+Phone Number: +555499726015
+Message: Hello, this is a test message!
+--------------------
+Date: 14/6/2023
+Time: 19:52
+Phone Number: +555484341334
+Message: Opa, tudo bem? Aqui é o Voltolini, do Objetivismo Brasil.Preciso dizer que essa é uma mensagem muito importante.Muito obrigado e boa semana.Lucas Voltolini
+--------------------
+Date: 14/6/2023
+Time: 19:53
+Phone Number: +555499726015
+Message: Opa, tudo bem? Aqui é o Voltolini, do Objetivismo Brasil.Preciso dizer que essa é uma mensagem muito importante.Muito obrigado e boa semana.Lucas Voltolini
+--------------------

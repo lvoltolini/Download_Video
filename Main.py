@@ -31,7 +31,18 @@ def check_path_exist(path):
         if os.path.exists(path):
                 print(f"{path} already exists.")
                 return True
-        
+
+def segment_video(video, start_time, end_time, mp4_name):
+        if start_time < end_time:
+                # Estrae il segmento di video specificato
+                segmento = video.subclip(start_time, end_time)
+
+                # Salva il segmento di video
+                segment_path = f"{os.getcwd()}//Videos//segment_{mp4_name}"
+                if check_path_exist(segment_path):
+                        return
+                segmento.write_videofile(segment_path, codec="libx264")
+      
 def download(url, start_time, end_time, filename):
 
         print('start:', start_time, 'end:', end_time)
@@ -51,16 +62,19 @@ def download(url, start_time, end_time, filename):
         
         # Carica il video utilizzando la classe VideoFileClip
         video = VideoFileClip(mp4_dir + mp4_name)
+        
+        # Segmenta il video quando si è verificato che start_time < end_time
+        segment_video(video, start_time, end_time, mp4_name)
 
-        if start_time < end_time:
-                # Estrae il segmento di video specificato
-                segmento = video.subclip(start_time, end_time)
+        # if start_time < end_time:
+        #         # Estrae il segmento di video specificato
+        #         segmento = video.subclip(start_time, end_time)
 
-                # Salva il segmento di video
-                segment_path = f"{os.getcwd()}//Videos//segment_{mp4_name}"
-                if check_path_exist(segment_path):
-                        return
-                segmento.write_videofile(segment_path, codec="libx264")
+        #         # Salva il segmento di video
+        #         segment_path = f"{os.getcwd()}//Videos//segment_{mp4_name}"
+        #         if check_path_exist(segment_path):
+        #                 return
+        #         segmento.write_videofile(segment_path, codec="libx264")
 
     
 class Ui_MainWindow(object):
